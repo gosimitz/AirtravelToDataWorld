@@ -9,7 +9,7 @@ public class Main {
         String filepath = properties.getProperty("filepath");
         BTSDownload.downloadFile(filepath, 2020, 2);
         //unzip
-        //create data.world project
+        //create data.world project Possibly dataset, consider whatever structure makes the most sense. TODO: research that
         //upload files from unzip
         //delete files from unzip
         //move on.
